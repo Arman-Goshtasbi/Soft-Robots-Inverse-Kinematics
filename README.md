@@ -1,4 +1,4 @@
-# Soft-Robots-Inverse-Kinematics
+# Soft Robots Inverse Kinematics
 
 Inverse kinematics method for multi-segment, extensible, constant-curvature soft pneumatic robots. This code was developed during a mechanical engineering internship at the **Surgical Robotics Lab / Dynamics and Control Group, Eindhoven University of Technology (TU/e)**, and supports the results published in:
 
