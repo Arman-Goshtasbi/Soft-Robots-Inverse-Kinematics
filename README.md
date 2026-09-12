@@ -9,7 +9,7 @@ Inverse kinematics method for multi-segment, extensible, constant-curvature soft
 
 Soft pneumatic actuators are difficult to model accurately due to their nonlinear, continuous dynamics and hyper-elastic material behavior. This project approximates each segment of a multi-segment extensible soft robot as a set of rigid links connected by rotary and prismatic joints (a piecewise constant curvature approximation), then solves the inverse kinematics numerically to track a desired end-effector trajectory. The redundancy of the robot is additionally exploited for secondary tasks such as tip-angle control.
 
-![Bent 3-actuator soft robot](Media/bended_3act.JPG)
+Watch video here:
 
 [![Watch the demo video](https://img.youtube.com/vi/EYuKwtSX3gg/hqdefault.jpg)](https://www.youtube.com/watch?v=EYuKwtSX3gg)
 
