@@ -63,8 +63,4 @@ If you use this code, please cite the paper:
 }
 ```
 
-## Authors
 
-- Mahboubeh Keyvanara — Reshape Lab, Dynamics and Control Group, TU/e
-- Arman Goshtasbi — Mechanical Engineering Intern, TU/e (now SDU Biorobotics, University of Southern Denmark)
-- Irene A. Kuling — Dynamics and Control Group, TU/e
