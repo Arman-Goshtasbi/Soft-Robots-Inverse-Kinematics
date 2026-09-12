@@ -44,7 +44,6 @@ Given this rigid-link model:
 
 Open `Matlab Code/Inverse_Kinematic_main_script.m` in MATLAB and run it directly — it calls both `forward_kinematics.m` and `Inverse_Kinematics_final.m` from the same folder, so no path setup should be needed as long as all three files stay together.
 
-![3-segment, 3-bellow actuator](Media/3seg-3bellow_1.JPG)
 
 ## Citation
 
