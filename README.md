@@ -22,10 +22,10 @@ Matlab Code/
 └── forward_kinematics.m              — forward kinematics function (configuration → end-effector pose)
 
 SolidWorks/
-└── CAD model of the 3-segment, 3-bellow soft pneumatic actuator used for experimental validation
+└── CAD model of the 3-segment, 3-bellow soft pneumatic actuator
 
 Media/
-└── Renders and photos of the physical prototype
+└── Renders of the prototypes
 ```
 
 ## Method
